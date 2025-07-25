@@ -411,7 +411,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 ## Makurdi
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
-
+- .[Wellington Workplace].(https://gemito.netlify.app/)
+  75 Old Otukpo road, beside Access Bank, HighLevel Roundabout, Makurdi.
 
 ## Nasarawa
 
